@@ -1,0 +1,37 @@
+{
+    "name": "ATSi-SMVC/ATSi-SMVC",
+    "description": "ATSi-SMVC is a PHP micro framework that helps you create clean.",
+    "keywords": [
+        "microframework",
+        "rest",
+        "router",
+        "ATSi-SMVC",
+        "php",
+        "framework"
+    ],
+    "homepage": "https://github.com/anjasamar/ATSi-SMVC",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anjas Amar Pradana",
+            "email": "atsidevelopment01@gmail.com",
+            "homepage": "https://github.com/anjasamar/ATSi-SMVC",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ATSi-SMVC\\": "src"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {
+        "leafs/blade": "^1.2",
+        "illuminate/database": "^8.0",
+        "illuminate/container": "^8.0",
+        "illuminate/events": "^8.0",
+        "phpmailer/phpmailer": "^6.2",
+        "illuminate/view": "^8.0"
+    }
+}
