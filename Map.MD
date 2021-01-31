@@ -29,7 +29,7 @@
  * @author	Anjas Amar Pradana - ATSi(Anjas Tech Software Interface)
  * @copyright	Copyright (c) 2021, ATSi-Development. (https://www.facebook.com/anjelo.sonliberto/)
  * @license	https://opensource.org/licenses/MIT	MIT License
- * @link	https://codeigniter.com
+ * @link	https://github.com/anjasamar/ATSi-SMVC/
  * @since	Version 1.0.0
  * @filesource
  */
